@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    padding: 0%;
+    background-color: rgb(253, 132, 87,0.8);
+}
+
+h1{
+    margin-left: 30%;
+    margin-right: 30%;
+    border: double turquoise;
+    background-color: teal;
+    color: white;
+}
